@@ -1,6 +1,7 @@
 # Otto-Python
 Otto Kaggle challenge. 
-The objective is to build a predictive model which is able to distinguish between  nine main product categories. The dataset provided has 93 features for more than 200,000 products. These programs (see Otto and Otto2 build the following models:
+
+The objective is to build a predictive model which is able to distinguish between  nine main product categories. The dataset provided has 93 features for more than 200,000 products. These programs (see Otto and Otto2) build the following models:
 
  Support Vector Machine
  

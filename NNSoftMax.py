@@ -12,7 +12,7 @@ Created on Wed Mar 04 12:08:27 2015
 
 def NNSoftMax(nn_params,input_layer_size,hidden_layer_size,num_labels,X, label,landa):                                    
     """
-    NNCOSTFUNCTION Implements the neural network cost function for a 2 layer
+    NNSoftMax Implements the neural network cost function for a 2 layer
     neural network which performs classification
     [J grad] = DropoutNN2hl(nn_params, hidden_layer_size, num_labels, ...
      X, y, lambda) computes the cost and gradient of the neural network. The

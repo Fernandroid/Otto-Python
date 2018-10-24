@@ -7,7 +7,7 @@ The objective is to build a predictive model which is able to distinguish betwee
  
  Boosting model: AdaBoost and Gradient Boosting
  
- Neuronal networks: NN with 2 hidden layers and for multliple labels clsssification (DropoutNN2hl function)
+ Neuronal networks: NN with 2 hidden layers for multliple labels clsssification (DropoutNN2hl function)
  and NN dropout NN with 2 hidden layers (NNSoftMax function)
  
  Ensemble models in BlendingModel.

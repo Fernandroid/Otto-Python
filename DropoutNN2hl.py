@@ -2,12 +2,12 @@
 """
 Created on Wed Mar 04 12:08:27 2015
 
-@author: u304479
+@author: Fernandroid
 """
 
 def DropoutNN2hl(nn_params,P,input_layer_size,hidden_layer_size,num_labels,X, label,landa):                                    
     """
-    NNCOSTFUNCTION Implements the drop out neural network cost function for a 2 layer
+    DropoutNN2hl Implements the drop out neural network cost function for a 2 layer
     neural network which performs classification
     [J grad] = DropoutNN2hl(nn_params, hidden_layer_size, num_labels, ...
      X, y, lambda) computes the cost and gradient of the neural network. The

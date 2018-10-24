@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 24 15:06:37 2015
 
-@author: u304479
+@author: Fernandroid
 """
 from sklearn import ensemble 
 from sklearn.neighbors import KNeighborsClassifier 

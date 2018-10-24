@@ -10,4 +10,4 @@ The objective is to build a predictive model which is able to distinguish betwee
  Neuronal networks: NN with 2 hidden layers and for multliple labels clsssification (DropoutNN2hl function)
  and NN dropout NN with 2 hidden layers (NNSoftMax function)
  
- Ensemble model in BlendingModel.
+ Ensemble models in BlendingModel.
